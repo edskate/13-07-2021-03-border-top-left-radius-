@@ -1,0 +1,33 @@
+h1{
+    box-shadow: 2px 3px 4px 3px ;
+    width:50%;
+    margin: 5%;
+    text-align: center;
+    border: 3px solid #808000;
+}
+h1{
+    box-shadow: 2px 3px 4px 3px ;
+    width:50%;
+    margin: 17%;
+    text-align: center;
+    border: 3px solid #3b0bd6;  
+    
+}
+div{
+    box-shadow: inset 1px 2px 3px 5px #005;
+    margin: 5%;
+    width:17%;
+    height: 2%;
+    padding: 5%;
+    border-top-left-radius: 80%;
+    text-shadow: 2px 3px 4px brown;
+   
+}
+div { 
+    border-top-left-radius: 80px 40px;
+  }
+.p{
+    text-align: center;
+    text-shadow: 2px 3px 4px 5px #3b0bd6;
+    
+}
